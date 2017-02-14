@@ -44,7 +44,7 @@ def testRamp():
     
     it = 0
     for every in results:
-        Image.fromarray(resizeToSize(every, (320, 170))).save('./results/ramp_' + str(weights[it]) + '.png')
+        Image.fromarray(resizeToSize(every, (86, 160))).save('./results/ramp_' + str(weights[it]) + '.png')
         it += 1
     print("Ramp test done...")
 
