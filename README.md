@@ -19,9 +19,11 @@ o![0](results/ramp_1.png "1 step")
 
 
 #### poisson
-50 => 500 => 2000   
+50 => 500 => 2000 => 3200 
 ![50](results/poisson_50.png "50 steps")
 ![500](results/poisson_500.png "500 steps")
 ![2000](results/poisson_2000.png "2000 steps")
+![3200](results/poisson_3200.png "3200 steps")
+
 
 
