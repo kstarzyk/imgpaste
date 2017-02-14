@@ -1,4 +1,4 @@
-### [compho]
+## [compho] LAB 8 
 
 
 Whole logic in poisson.py  
@@ -8,7 +8,7 @@ python3 main.py # executes tests for first and second task (+ rampTest)
 ```
 
 
-### naive
+#### naive
 ![happy bear](results/naive.png "naive composition")
 
 #### rampTest
@@ -19,4 +19,8 @@ python3 main.py # executes tests for first and second task (+ rampTest)
 
 
 #### poisson
+50 => 500 => 2000 
+![50](results/poisson_50.png "50 steps")
+![500](results/poisson_500.png "500 steps")
+![2000](results/poisson_2000.png "2000 steps")
 
