@@ -19,7 +19,8 @@ python3 main.py # executes tests for first and second task (+ rampTest)
 
 
 
-$#### poisson
+#### poisson 
+
 50 => 500 => 2000 => 3200   
 ![50](results/poisson_50.png "50 steps")
 ![500](results/poisson_500.png "500 steps")
@@ -29,4 +30,5 @@ $#### poisson
 
 
 ![2000](results/poisson_2000.png "2000 steps")
+
 
