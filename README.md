@@ -28,7 +28,3 @@ python3 main.py # executes tests for first and second task (+ rampTest)
 ![3200](results/poisson_3200.png "3200 steps")
 
 
-
-![2000](results/poisson_2000.png "2000 steps")
-
-
